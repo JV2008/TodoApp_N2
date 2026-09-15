@@ -3,8 +3,7 @@ name: Pipeline de CI
 on:
 
   push:
-    branches:
-      - main
+    branches: ["main"]
         
     
 
